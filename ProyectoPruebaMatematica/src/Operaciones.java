@@ -24,4 +24,9 @@ public class Operaciones {
     {
         return x+y;
     }
+    
+    public int multiplicacion()
+    {
+        return x*y;
+    }
 }
