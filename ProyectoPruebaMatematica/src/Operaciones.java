@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Isaac
+ * @author Jose Coronel
  */
 public class Operaciones {
     
@@ -20,8 +20,8 @@ public class Operaciones {
         
     }
     
-    public int suma()
+    public int resta()
     {
-        return x+y;
+        return x-y;
     }
 }
