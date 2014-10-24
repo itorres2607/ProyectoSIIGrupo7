@@ -29,18 +29,4 @@ public class Operaciones {
     {
         return x-y;
     }
-    
-    
-    public int multiplicacion()
-    {
-        return x*y;
-    }
-    
-     public double division()
-    {
-        if (y!=0)
-            return x/y;
-        else
-            return 0;
-    }
 }
