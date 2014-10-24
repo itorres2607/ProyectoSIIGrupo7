@@ -32,4 +32,9 @@ public class Operaciones {
         else
             return 0;
     }
+    public int resta()
+    {
+        return x-y;
+    }
+    
 }
