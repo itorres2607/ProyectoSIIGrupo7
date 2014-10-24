@@ -37,4 +37,9 @@ public class Operaciones {
         return x-y;
     }
     
+    public double multiplicacion(){
+        return x*y;
+    }
+    
+    
 }
